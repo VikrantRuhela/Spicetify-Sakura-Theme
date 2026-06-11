@@ -1,0 +1,24 @@
+{
+"name": "Sakura",
+"description": "A dark cherry blossom inspired Spotify theme featuring animated falling sakura petals, soft pink accents, a floral wallpaper, and a calm aesthetic interface.",
+"preview": "preview.png",
+"readme": "README.md",
+"usercss": "user.css",
+"schemes": "color.ini",
+"include": [
+"https://vikrantruhela.github.io/Spicetify-Sakura-Theme/theme.js"
+],
+"authors": [
+{
+"name": "Vikrant Ruhela",
+"url": "https://github.com/VikrantRuhela"
+}
+],
+"tags": [
+"dark",
+"sakura",
+"pink",
+"aesthetic",
+"animated"
+]
+}
