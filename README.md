@@ -2,6 +2,8 @@
 
 A dark cherry blossom inspired Spotify theme for Spicetify.
 
+![Preview](preview.png)
+
 ## Features
 
 * Sakura-inspired color palette
