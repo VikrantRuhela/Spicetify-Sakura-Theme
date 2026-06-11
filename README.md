@@ -1,7 +1,16 @@
-# DeskAestheticx-Sakura-Theme
-🌸 Sakura is a cherry blossom inspired Spicetify theme that transforms Spotify with falling Sakura petals, soft pink accents, a dark floral aesthetic. Designed for a calm, elegant, and immersive listening experience.
+# Sakura
 
-Installation
+A dark cherry blossom inspired Spotify theme for Spicetify.
+
+## Features
+
+* Sakura-inspired color palette
+* Falling cherry blossom petals
+* Dark atmospheric wallpaper
+* Clean recommendation section
+* Soft pink accent colors
+
+## Installation
 
 Copy the Sakura folder into your Spicetify Themes directory and apply:
 
@@ -9,6 +18,10 @@ spicetify config current_theme Sakura
 
 spicetify apply
 
-Version - 1.0
+## Version
 
-Author-DeskAestheticx (Vikrant Ruhela)
+1.0
+
+## Author
+
+DeskAestheticx
