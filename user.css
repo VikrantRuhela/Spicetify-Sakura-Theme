@@ -199,3 +199,28 @@ color: #1f1a1f !important;
     --background-highlight: #221a22 !important;
     --background-press: #151015 !important;
 }
+/* Force Sakura background when scrolling */
+
+.main-view-container__scroll-node-child {
+    --background-base: #181218 !important;
+    --background-highlight: #221a22 !important;
+    --background-press: #151015 !important;
+}
+/* Kill artist scroll tint */
+
+.main-entityHeader-backgroundColor,
+.main-entityHeader-backgroundOverlay,
+.main-entityHeader-overlay {
+    background: transparent !important;
+    opacity: 0 !important;
+}
+
+/* Force Sakura gradient instead */
+
+.main-entityHeader-container {
+    background: linear-gradient(
+        180deg,
+        rgba(25,18,25,.95),
+        rgba(18,13,18,.98)
+    ) !important;
+}
