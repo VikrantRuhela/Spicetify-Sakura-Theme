@@ -37,7 +37,7 @@ backdrop-filter: blur(20px);
             rgba(10,8,10,.92),
             rgba(10,8,10,.95)
         ),
-        url("https://images.unsplash.com/photo-1555231955-348aa2312e19?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
+        url("images/sakura-bg.jpg")
         !important;
 
     background-size: cover !important;
