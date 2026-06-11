@@ -5,9 +5,7 @@
 "readme": "README.md",
 "usercss": "user.css",
 "schemes": "color.ini",
-"include": [
-"https://vikrantruhela.github.io/Spicetify-Sakura-Theme/theme.js"
-],
+"include": ["https://vikrantruhela.github.io/Spicetify-Sakura-Theme/theme.js"],
 "authors": [
 {
 "name": "Vikrant Ruhela",
