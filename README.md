@@ -14,10 +14,14 @@ A dark cherry blossom inspired Spotify theme for Spicetify.
 
 ## Installation
 
-Copy the Sakura folder into your Spicetify Themes directory and apply:
+Copy Sakura into:
+
+%appdata%\spicetify\Themes
+
+Then run:
 
 spicetify config current_theme Sakura
-
+spicetify config extensions sakura.js
 spicetify apply
 
 ## Version
