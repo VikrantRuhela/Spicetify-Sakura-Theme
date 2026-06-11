@@ -21,7 +21,9 @@ Copy Sakura into:
 Then run:
 
 spicetify config current_theme Sakura
+
 spicetify config extensions sakura.js
+
 spicetify apply
 
 ## Version
