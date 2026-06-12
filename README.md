@@ -16,7 +16,7 @@ A dark cherry blossom inspired Spotify theme for Spicetify.
 
 Copy Sakura into:
 
-%appdata%\spicetify\Themes
+%appdata%\Roaming\spicetify\Themes
 
 Then run:
 
